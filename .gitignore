@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+/release/
+api.txt
+api-url.txt
+*.[Cc][Aa][Tt][Pp][Aa][Rr][Tt]
+*.[Cc][Aa][Tt][Pp][Rr][Oo][Dd][Uu][Cc][Tt]
+split-manifest.json
+/空调各部分数据命名.xlsx
